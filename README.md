@@ -1,6 +1,6 @@
 
 # Multimodal Code-Mixed Meme Moderation Model
-
+Authors:Ashmi S N,Nimisha M Iyer, Balasubramanian Palani, Jobin Jose.
 ## Overview
 This project presents a deep learning-based multimodal framework for detecting harmful content in code-mixed memes under ultra-low-resource settings. The model combines textual and visual features using gated fusion and imbalance-aware learning strategies to improve moderation performance on minority and slang-heavy data.
 
