@@ -37,11 +37,10 @@ The framework consists of four core components:
 
 ## Project Structure
 ```text
-├── bestmodel.ipynb        # Main training and evaluation notebook
-├── dataset/               # Dataset directory (not included in repo)
-├── models/                # Saved model checkpoints
-├── utils/                 # Helper functions
-└── README.md              # Project documentation
+├── DravidianLangTech_Best_Submission.csv   # Final submission file with test predictions
+├── README.md                               # Project overview, setup instructions, and methodology summary
+├── bestmodel.ipynb                         # Notebook containing the final trained model and evaluation results
+├── trialnotebook.ipynb                     # Experimental notebook 
 
 ```
 
